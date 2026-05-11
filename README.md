@@ -6,6 +6,7 @@ Projeto de uma landing page para a empresa Biolab, focado em biotecnologia e sa�
 * HTML5
 * CSS3
 * Google Fonts (Roboto)
+* Google Fonts (inter)
 
 ## 📁 Organização
 * `index.html`: Estrutura do site.
